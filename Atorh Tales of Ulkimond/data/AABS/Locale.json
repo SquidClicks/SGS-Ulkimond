@@ -1,0 +1,73 @@
+[
+    {
+        "Alerts": {
+            "STRING_ALERT_NEEDTARGET": "Potrzeba celu",
+            "STRING_ALERT_TOFAR": "Cel jest za daleko",
+            "STRING_ALERT_INTERRUPT": "Akcja przerwana",
+            "STRING_ALERT_NOAUTOA": "Nie można zaatakować",
+            "STRING_ALERT_NOUSE": "Nie można teraz użyć akcji",
+            "STRING_ALERT_NOCHARGES": "Nie można użyć, nie załadowano",
+            "STRING_ALERT_RECHARGE": "Akcja nie jest jeszcze gotowa",
+            "STRING_ALERT_CASTMOVE": "Nie można użyć - postać w ruchu",
+            "STRING_ALERT_NOINBATTLE": "Musisz wyjść z bitwy",
+            "STRING_ALERT_NEWLEVEL": "Nowy Poziom"
+        },
+        "PopUps": {
+            "STRING_POPUP_EVADE" : "Unik",
+            "STRING_POPUP_MISS" : "Podło",
+            "STRING_POPUP_FAIL" : "Fail",
+            "STRING_POPUP_ABSORB" : "Absorbowany",
+            "STRING_POPUP_IMMUNE" : "Odporny",
+            "STRING_POPUP_WEAK" : "Słaby",
+            "STRING_POPUP_SKILL" : "Gotowy!"
+        },
+        "Menu": {
+            "STRING_MENU_UIVIS": "Pokaż UI",
+            "STRING_MENU_UIPOS": "Edytuj UI",
+            "STRING_MENU_KEYBIND": "Sterowanie"
+        },
+        "KeyBinding": {
+            "STRING_MENU_KB_KEY": "Wciśnij dowolny klawisz",
+            "STRING_MENU_KB_TAB": "Wybór Celu",
+            "STRING_MENU_KB_SKILLS": "Panel Skilli",
+            "STRING_MENU_KB_CONTRL": "Panel Sterowania",
+            "STRING_MENU_KB_WEAPON": "Koło wyboru broni",
+            "STRING_MENU_KB_DEF": "Reset to default",
+            "STRING_MENU_KB_BACK": "Powrót",
+            "STRING_MENU_KB_SLOT": "Przedmioty",
+            "STRING_MENU_KB_ATTACK": "Atak",
+            "STRING_MENU_KB_FOLLOW": "Follow",
+            "STRING_MENU_KB_JUMP": "Skok",
+            "STRING_MENU_KB_ROTATE": "Obrót",
+            "STRING_MENU_KB_LEFT": "Lewo",
+            "STRING_MENU_KB_RIGHT": "Prawo",
+            "STRING_MENU_KB_BOTTOM": "Dół",
+            "STRING_MENU_KB_TOP": "Góra",
+            "STRING_MENU_KB_WEAP": "Broń"
+        },
+        "SpellInfo": {
+            "STRING_SKILL_INFO_RADIUS": "Promień: ",
+            "STRING_SKILL_INFO_RANGE": "Zasięg: ",
+            "STRING_SKILL_INFO_RANGE2":  "Zasięg: ",
+            "STRING_SKILL_INFO_CAST":  "Cast: ",
+            "STRING_SKILL_INFO_COOLDOWN":  "Czas odnowienia: ",
+            "STRING_SKILL_INFO_DESCRIPTION":  "Opis",
+            "STRING_SKILL_INFO_HAS":  "Has: ",
+            "STRING_SKILL_INFO_USE":  "Use: ",
+            "STRING_SKILL_INFO_CHARGES":  "Charges: ",
+            "STRING_SKILL_INFO_RELOADCHR":  "Reload charges: ",
+            "STRING_SKILL_INFO_ONTARGET":  "Need target",
+            "STRING_SKILL_INFO_ONUSER":  "On user",
+            "STRING_SKILL_INFO_AREA":  "Area select",
+            "STRING_SKILL_INFO_CIRCLE":  "Around user",
+            "STRING_SKILL_INFO_ZONE":  "Zone",
+            "STRING_SKILL_INFO_SEC":  " sekund.",
+            "STRING_SKILL_INFO_TARGET":  "<target>",
+            "STRING_SKILL_INFO_DAMAGE":  "Damage ",
+            "STRING_SKILL_INFO_RECOVER":  "Recover ",
+            "STRING_SKILL_INFO_DRAIN":  "Drain ",
+            "STRING_SKILL_INFO_MELEE":  "Melee ",
+            "STRING_SKILL_INFO_REPEATS":  "Multi Hits: "
+        }
+    }
+]

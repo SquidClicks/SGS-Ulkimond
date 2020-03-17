@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1164
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: this._data.target.toPoint is not a function
+    at Game_SVector._endPoint (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:23740:32)
+    at Game_SVector.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:23631:36)
+    at Scene_Map.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27113:16)
+    at Array.forEach (<anonymous>)
+    at Scene_Map._updateABS (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27103:35)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27056:12)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27387:33)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2024:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
+ERROR!
+Using AlphaABS [Build: 1164 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: this._data.target.toPoint is not a function
+    at Game_SVector._endPoint (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:23740:32)
+    at Game_SVector.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:23631:36)
+    at Scene_Map.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27113:16)
+    at Array.forEach (<anonymous>)
+    at Scene_Map._updateABS (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27103:35)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27056:12)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1164.js:27387:33)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2024:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
